@@ -1,0 +1,25 @@
+###################################
+#+===============================+#
+#|+=============================+|#
+#||                             ||#
+#||                             ||#
+#||        Factions HUD         ||#
+#||            by               ||#
+#||      GrimReaper52498        ||#
+#||                             ||#
+#||    Request by: Greensmack   ||#
+#|+=============================+|#
+#+===============================+#
+###################################
+
+
+
+#The color of the Faction name (the name of the Scoreboard)
+FactionNameColor: '&c'
+
+#Color of the main text (Leader, Power, and Online Members)
+MainColor: '&a'
+
+#Color of the secondary text (PowerLevel, and Online members)
+#NOTE: The leaders name will always be white to avoid problems with Strings > 16
+SecondaryColor: '&f'

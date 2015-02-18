@@ -2,4 +2,4 @@ name: FactionsHUD
 version: 0.2
 main: me.GrimReaper52498.FactionsHud.Main
 author: GrimReaper52498
-depend: [Factions}
+depend: [Factions, mcore]
